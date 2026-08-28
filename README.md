@@ -69,21 +69,21 @@ me.say_hi()
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=39FF14)
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=openjdk&logoColor=39FF14)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14)
-![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=c&logoColor=39FF14)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
-![Django](https://img.shields.io/badge/-Django-000000?style=for-the-badge&logo=django&logoColor=39FF14)
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14)
-![Flutter](https://img.shields.io/badge/-Flutter-000000?style=for-the-badge&logo=flutter&logoColor=39FF14)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=39FF14)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14)
-![MySQL](https://img.shields.io/badge/-MySQL-000000?style=for-the-badge&logo=mysql&logoColor=39FF14)
-![SQLite](https://img.shields.io/badge/-SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=39FF14)
-![Supabase](https://img.shields.io/badge/-Supabase-000000?style=for-the-badge&logo=supabase&logoColor=39FF14)
-![Git](https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
